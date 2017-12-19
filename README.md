@@ -50,6 +50,6 @@ Think about where you need your laptop positioned for advancing slides based on 
 
 ---
 
-[More details on meetup.com](https://www.javascript.my)
+[More details on javascript.my](https://www.javascript.my)
 
 Every 3rd Wednesday of the month you'll find us talking about what we're doing and what's happening around us in the world of JavaScript.
